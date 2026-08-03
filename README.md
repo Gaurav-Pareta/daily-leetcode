@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
