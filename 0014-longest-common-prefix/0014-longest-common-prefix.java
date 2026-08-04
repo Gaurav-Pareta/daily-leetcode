@@ -6,9 +6,9 @@ class Solution {
 
             while (!strs[i].startsWith(ans.toString())) {
                 ans.deleteCharAt(ans.length() - 1);
-                // if (ans.length() == 0) {
-                //     return "";
-                // }
+                if (ans.length() == 0) {
+                    return "";
+                }
             }
 
         }
