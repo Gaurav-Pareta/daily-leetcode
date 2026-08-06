@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -51,4 +53,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
