@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -88,5 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0507-perfect-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
