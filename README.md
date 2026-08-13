@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
+| [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
