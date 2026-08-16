@@ -95,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
