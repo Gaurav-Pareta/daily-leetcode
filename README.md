@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
