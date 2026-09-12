@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -132,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
