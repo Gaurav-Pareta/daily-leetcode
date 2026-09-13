@@ -15,16 +15,19 @@ public class Solution {
         ListNode tempA = headA;
         ListNode tempB = headB;
 
-        while(tempA != null){
-            while(tempB != null){
-                if(tempA == tempB){
-                    return tempA;
-                }
-                tempB = tempB.next;
-            }
-            tempB = headB;
+        while(tempA != tempB){
+           if(tempA == null){
+            tempA = headB;
+           } else {
             tempA = tempA.next;
+           }
+
+           if(tempB == null){
+            tempB = headA;
+           } else {
+            tempB = tempB.next;
+           }
         }
-        return null;
+        return tempA;
     }
 }
