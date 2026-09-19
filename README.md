@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0565-array-nesting](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0565-array-nesting) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0565-array-nesting) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
