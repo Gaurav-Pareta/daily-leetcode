@@ -11,7 +11,7 @@ class Solution {
             }
 
             // Closing bracket
-            if (ch == ')' || ch == '}' || ch == ']') {
+            else{
 
                 // No opening bracket available
                 if (s.isEmpty()) {
