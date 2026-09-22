@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0020-valid-parentheses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
