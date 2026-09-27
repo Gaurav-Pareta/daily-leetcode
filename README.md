@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0565-array-nesting) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0739-daily-temperatures) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -207,8 +208,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
