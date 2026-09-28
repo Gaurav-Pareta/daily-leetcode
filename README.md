@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0565-array-nesting) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0739-daily-temperatures) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
