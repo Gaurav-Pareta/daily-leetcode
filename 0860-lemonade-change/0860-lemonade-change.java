@@ -1,35 +1,40 @@
-import java.util.*;
-
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int tens = 0;
+
         int fives = 0;
-        if(bills[0] != 5){
-            return false;
-        } 
-        for(int i = 0; i<bills.length; i++){
-            if(bills[i] == 5){
+        int tens = 0;
+
+        for (int bill : bills) {
+
+            if (bill == 5) {
                 fives++;
             }
-            else if(bills[i] == 10){
-                if(fives>=1){
-                    tens++;
-                    fives--;
-                } else{
+
+            else if (bill == 10) {
+                if (fives == 0) {
                     return false;
                 }
+
+                fives--;
+                tens++;
             }
-            else{
-                if(tens>=1 && fives>=1){
-                   tens--;
-                   fives--;
-                } else if(fives>=3){
-                    fives = fives-3;
-                } else{
+
+            else { 
+                if (tens > 0 && fives > 0) {
+                    tens--;
+                    fives--;
+                }
+
+                else if (fives >= 3) {
+                    fives -= 3;
+                }
+
+                else {
                     return false;
                 }
             }
         }
+
         return true;
     }
 }
