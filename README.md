@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0455-assign-cookies) |
 ## String
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Newton's Method
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
