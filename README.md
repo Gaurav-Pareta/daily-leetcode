@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0565-array-nesting) |
 | [0735-asteroid-collision](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
