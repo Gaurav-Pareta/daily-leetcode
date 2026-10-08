@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0229-majority-element-ii) |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
