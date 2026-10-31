@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gaurav-Pareta/daily-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
